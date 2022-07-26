@@ -11,7 +11,7 @@ I'm a filmmaker who fell in love with Front-End Software Developement and a curr
 - 📫 People can reach me by email: josedaniel.galindo@hotmail.com
 - ⚡ Fun fact: On march 2022, I didn't knew that the terminal existed in my computer 🤣
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-End developer from Peru</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
